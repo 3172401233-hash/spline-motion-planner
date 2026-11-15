@@ -1,0 +1,14 @@
+{
+  "name": "spline-motion-planner",
+  "version": "1.0.0",
+  "description": "Arc-length parameterized spline motion planner for camera trajectories.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
